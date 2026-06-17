@@ -1,6 +1,6 @@
-#To-Do List Management System
+To-Do List Management System
 
-##Description
+Description
 
 This repository contains a Python-based To-Do List Management System developed as part of the DecodeLabs Internship Program.
 
